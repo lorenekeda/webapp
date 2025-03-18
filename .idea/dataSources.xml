@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ehotel@localhost" uuid="c9b8d264-47a2-4a36-96ba-bfc409cb1064">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/ehotel</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="hotelchain@localhost" uuid="6569ea37-1667-4e59-9dd3-e3402da9cfae">
+    <data-source source="LOCAL" name="hotelchain@localhost" uuid="d156c36a-47e9-4292-8dbe-7d31ab286eb6">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
